@@ -12,7 +12,7 @@
 ![☣️ 🇦 🇵 🇽 🇩 ☣️'s github stats](https://github-readme-stats.vercel.app/api?username=AP-XD&show_icons=true&count_private=true&bg_color=100,900000,200000&title_color=fff&text_color=fff&icon_color=f2dhdh) 
 ![☣️ 🇦 🇵 🇽 🇩 ☣️'s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=AP-XD&bg_color=1,100,930&title_color=fff&text_color=fff)<br>
 
-<img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" />
+<img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 </div>
 
 
