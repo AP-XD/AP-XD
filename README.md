@@ -26,13 +26,6 @@
 
 ![̽̀ 𝐀𝐫𝐤𝐚](https://github-readme-streak-stats.herokuapp.com/?user=AP-XD&theme=dark)</div>
 
-## Metrics
-<div align="center">
-
-![Metrics](https://github.com/AP-XD/AP-XD/blob/master/github-metrics.svg)</div>
-
-<br>
-
 <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
 
@@ -41,6 +34,13 @@
 - 🔭 I am looking for help with **Web Development**. <br>
 - 💬 Ask me about **anything**, always ready to help.
 - 📫 Find me on Telegram - [̽̀ 𝐀𝐫𝐤𝐚 ](https://t.me/AP_XD).
+
+## Metrics
+<div align="center">
+
+![Metrics](https://github.com/AP-XD/AP-XD/blob/main/github-metrics.svg)</div>
+
+<br>
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
