@@ -1,12 +1,6 @@
-# Arka Pramanik&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Arka Pramanik&nbsp;
 
 <p>
-
-<!--<div margin-left: 400px align="center" width="600">
-
-<!--<img src="https://github.com/AP-XD/AP-XD/blob/main/HEHECODE.gif" alt=" Hello <𝚌𝚘𝚍𝚎𝚛𝚜/> " width="1200" height="250"/>
-</div>-->
-
 <div align="center" width="50">
   
 <br><img src="https://komarev.com/ghpvc/?username=AP-XD&style=flat-square" alt="AP-XD" />
