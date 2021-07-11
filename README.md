@@ -15,14 +15,7 @@
 ![̽̀ 𝐀𝐫𝐤𝐚's Github stats](https://github-readme-stats.vercel.app/api?username=AP-XD&show_icons=true&count_private=true&theme=dark)
 </div>
 
-## Streak
-<div align="center">
-
-![̽̀ 𝐀𝐫𝐤𝐚](https://github-readme-streak-stats.herokuapp.com/?user=AP-XD&theme=dark)</div>
-
 <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
-
-
 
 -  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20vw" />  I’m currently learning **C++ & Python**. <br>
 - 🔭 I am looking for help with **Web Development**. <br>
@@ -35,6 +28,12 @@
 ![Metrics](https://github.com/AP-XD/AP-XD/blob/main/github-metrics.svg)</div>
 
 <br>
+
+
+## Streak
+<div align="center">
+
+![̽̀ 𝐀𝐫𝐤𝐚](https://github-readme-streak-stats.herokuapp.com/?user=AP-XD&theme=dark)</div>
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
