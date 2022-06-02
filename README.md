@@ -18,7 +18,7 @@
 
 <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
--  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20vw" />  I’m currently learning **React JS & Node JS**. <br>
+-  <img width="2.5%" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  />  I’m currently learning **React JS & Node JS**. <br>
 - 🔭 I am looking for help with **Web Development**. <br>
 - 👨‍💻 I am currently doing **Competitive Coding**
 - 💬 Ask me about **anything**, always ready to help.
