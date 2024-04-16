@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arka Pramanik</h1>
-<h3 align="center">A Final Year Student pursuing B.Tech in Computer Science & Engineering from VIT, Vellore.</h3>
+<h3 align="center">Currently Working as an HPC Software Engineer Intern @HPE </h3>
 
 <br/>
 
@@ -7,9 +7,9 @@
 
 <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
--  <img width="2.5%" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  />  I’m currently learning **React JS & Node JS**. <br>
-- 🔭 I am looking for help with **Web Development**. <br>
-- 👨‍💻 I'm currently learning **DevOps**.
+-  <img width="2.5%" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  />  I’m currently learning **Kubernetes & Kafka**. <br>
+<!-- - 🔭 I am looking for help with ****. <br> -->
+- 👨‍💻 I'm currently enhancing my **DevOps Skillset**.
 - 💬 Ask me about **anything**, always ready to help.
 - 🌐 Porfolio - **[apxd.codes](https://apxd.codes/)**
 - 📫 Find me on Telegram - [̽̀ 𝐀𝐫𝐤𝐚 ](https://tx.me/AP_XD).
@@ -43,7 +43,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me
 
-[<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/Telegram_logo.svg" alt="Telegram logo" height="32" target="_blank">](https://t.me/AP_XD) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/Linkedin.svg" alt="LinkedIn logo" height="32" target="_blank">](https://www.linkedin.com/in/arka--pramanik/) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34" target="_blank">](https://github.com/AP-XD) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram logo" height="32" target="_blank">](https://www.instagram.com/apxd.kek/) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32" target="_blank">](mailto:arkamtg.pramanik@gmail.com) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/leet-code.svg" alt="Leetcode logo" height="32" target="_blank">](https://www.leetcode.com/Arka_2910) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/codeforces.svg" alt="Codeforces logo" height="32" target="_blank">](https://codeforces.com/profile/AP_XD) | [<img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="Codechef logo" height="32" target="_blank">](https://www.codechef.com/users/ap_2910) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/HackerRank.svg" alt="Hackerrank logo" height="32" target="_blank">](https://www.hackerrank.com/Arka_2910)
+[<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/Telegram_logo.svg" alt="Telegram logo" height="32" target="_blank">](https://t.me/AP_XD) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/Linkedin.svg" alt="LinkedIn logo" height="32" target="_blank">](https://www.linkedin.com/in/arka--pramanik/) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34" target="_blank">](https://github.com/AP-XD) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram logo" height="32" target="_blank">](https://www.instagram.com/p__arka/) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32" target="_blank">](mailto:arkamtg.pramanik@gmail.com) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/leet-code.svg" alt="Leetcode logo" height="32" target="_blank">](https://www.leetcode.com/Arka_2910) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/codeforces.svg" alt="Codeforces logo" height="32" target="_blank">](https://codeforces.com/profile/AP_XD) | [<img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="Codechef logo" height="32" target="_blank">](https://www.codechef.com/users/ap_2910) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/HackerRank.svg" alt="Hackerrank logo" height="32" target="_blank">](https://www.hackerrank.com/Arka_2910)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <br/>
