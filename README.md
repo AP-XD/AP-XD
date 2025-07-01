@@ -10,7 +10,7 @@
 -  <img width="2.5%" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  />  I’m currently learning **Kubernetes & Kafka**.
 - 👨‍💻 I'm currently enhancing my **DevOps Skillset**.
 - 💬 Ask me about **anything**, always ready to help.
-- 🌐 Porfolio - **[apxd.codes](https://apxd.in/)**
+- 🌐 Porfolio - **[apxd.in](https://apxd.in/)**
 - 📫 Find me on Telegram - [̽̀ 𝐀𝐫𝐤𝐚 ](https://tx.me/AP_XD).
 <!-- - 🔭 I am looking for help with ****. <br> -->
 <br/>
