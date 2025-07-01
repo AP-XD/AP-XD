@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arka Pramanik</h1>
-<h3 align="center">Currently Working as an HPC Software Engineer Intern @HPE </h3>
+<h3 align="center">Currently Working as an Systems/Software Engineer 1 @HPE </h3>
 
 <br/>
 
